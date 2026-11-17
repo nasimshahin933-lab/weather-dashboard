@@ -1,0 +1,19 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+input, button {
+    padding: 12px;
+    margin: 10px;
+}
+
+#result {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 350px;
+    background: #eeeeee;
+    border-radius: 10px;
+}
